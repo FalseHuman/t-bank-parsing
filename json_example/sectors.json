@@ -1,0 +1,62 @@
+[
+    {
+        "sectorId": "Other",
+        "sectorName": "Другое"
+    },
+    {
+        "sectorId": "HealthCare",
+        "sectorName": "Здравоохранение"
+    },
+    {
+        "sectorId": "GreenEnergy",
+        "sectorName": "Зеленая энергетика"
+    },
+    {
+        "sectorId": "IT",
+        "sectorName": "Информационные технологии"
+    },
+    {
+        "sectorId": "Ecomaterials",
+        "sectorName": "Материалы для эко-технологий"
+    },
+    {
+        "sectorId": "Industrials",
+        "sectorName": "Машиностроение и транспорт"
+    },
+    {
+        "sectorId": "RealEstate",
+        "sectorName": "Недвижимость"
+    },
+    {
+        "sectorId": "Consumer",
+        "sectorName": "Потребительские товары и услуги"
+    },
+    {
+        "sectorId": "Materials",
+        "sectorName": "Сырьевая промышленность"
+    },
+    {
+        "sectorId": "Telecom",
+        "sectorName": "Телекоммуникации"
+    },
+    {
+        "sectorId": "Financial",
+        "sectorName": "Финансовый сектор"
+    },
+    {
+        "sectorId": "Electrocars",
+        "sectorName": "Электротранспорт и комплектующие"
+    },
+    {
+        "sectorId": "Utilities",
+        "sectorName": "Электроэнергетика"
+    },
+    {
+        "sectorId": "Energy",
+        "sectorName": "Энергетика"
+    },
+    {
+        "sectorId": "GreenBuildings",
+        "sectorName": "Энергоэффективные здания"
+    }
+]

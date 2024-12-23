@@ -1,0 +1,6 @@
+venv
+images
+json
+*.zip
+*.log
+utils/settings.py
